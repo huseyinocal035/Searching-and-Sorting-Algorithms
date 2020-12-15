@@ -1,3 +1,5 @@
+package Searching;
+
 public class TernarySearchRecursive {
 
     public int findNumber(int[] array, int start, int end, int target) {

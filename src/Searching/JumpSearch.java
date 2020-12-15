@@ -1,3 +1,5 @@
+package Searching;
+
 public class JumpSearch {
 
     public int findNumber(int[] array, int target) {

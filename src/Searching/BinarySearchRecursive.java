@@ -1,3 +1,5 @@
+package Searching;
+
 public class BinarySearchRecursive {
 
     public int findBinaryRecursive(int[] array, int target, int low, int high) {

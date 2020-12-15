@@ -1,3 +1,5 @@
+package Searching;
+
 public class BinarySearchIterative {
 
     public int findBinaryIterative(int[] array, int target, int low, int high) {
